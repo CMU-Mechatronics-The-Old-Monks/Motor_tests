@@ -1,4 +1,5 @@
 // Dead range is ~2.25 dgree or 18-23 PWM PID = 0.1,0.01,0.05 (No load)
+//Done for M1(front left), can be translated to all others too)
 
 #include <Encoder.h>
 
